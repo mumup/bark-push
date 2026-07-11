@@ -1,7 +1,15 @@
 {
   "name": "bark-push",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A typed Node.js SDK for the Bark Server API V2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mumup/bark-push.git"
+  },
+  "homepage": "https://github.com/mumup/bark-push#readme",
+  "bugs": {
+    "url": "https://github.com/mumup/bark-push/issues"
+  },
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
